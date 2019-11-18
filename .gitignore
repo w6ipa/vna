@@ -1,0 +1,7 @@
+*.zip
+*.bak
+bom
+gerber
+*-bak
+fp-info-cache
+*.xml
